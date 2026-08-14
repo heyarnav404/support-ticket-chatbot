@@ -1,0 +1,16 @@
+ticket_id,issue,description,solution
+1,Login Issue,User cannot log into their account,Reset the authentication token and clear the browser cache.
+2,Login Issue,Customer is unable to sign in,Verify the account credentials and reset the password if necessary.
+3,Payment Failed,Payment failed while purchasing a subscription,Check the payment method and retry the transaction.
+4,Payment Failed,Customer's card payment was declined,Verify card details and contact the payment provider if the issue continues.
+5,Account Locked,User account was locked after multiple failed login attempts,Wait for the lockout period or reset the account through the administrator.
+6,Password Reset,User forgot their account password,Use the password reset link to create a new password.
+7,Slow Application,Application is running very slowly,Clear the application cache and check server performance.
+8,Server Error,User receives a 500 server error,Check server logs and restart the affected service if necessary.
+9,Email Problem,User is not receiving verification emails,Check spam folders and verify that the email address is correct.
+10,Account Locked,Customer cannot access their account because it is locked,Verify the user's identity and unlock the account through the admin panel.
+11,Login Issue,Login page keeps rejecting correct credentials,Clear cached sessions and reset the authentication token.
+12,Payment Failed,Subscription payment did not go through,Verify billing information and retry the payment.
+13,Email Problem,Password reset email never arrives,Check spam folders and verify the registered email address.
+14,Slow Application,Dashboard takes a long time to load,Clear cache and investigate server response time.
+15,Server Error,API request returns an internal server error,Review server logs and restart the affected API service.
